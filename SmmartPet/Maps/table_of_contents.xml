@@ -1,24 +1,33 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <map xmlns:xsi="http://www.w3.org/2001/XInclude">
-  <topicref type="topic" id="445257226912445" build="ALL" modified="2021-11-25T13:31:06.117Z" icon="0" href="Introduction">
-    <caption translate="true">Introduction</caption>
-    <topicref type="topic" id="44524444643313" build="ALL" modified="2021-11-25T13:31:06.380Z" icon="0" href="Welcome-topic">
-      <caption translate="true">Welcome topic</caption>
+  <topicref type="topic" id="445257226912445" build="ALL" modified="2021-11-25T20:51:53.295Z" icon="0" href="Introduction">
+    <caption translate="true">What is SmmartPet</caption>
+    <topicref type="topic" id="44524444643313" build="ALL" modified="2021-11-25T20:52:22.472Z" icon="0" href="Welcome-topic">
+      <caption translate="true">Deiagrams</caption>
     </topicref>
-    <topicref type="topic" id="445256221252516" build="ALL" modified="2021-11-25T13:31:06.496Z" icon="0" href="Second-topic">
-      <caption translate="true">Second topic</caption>
+    <topicref type="topic" id="445256221252516" build="ALL" modified="2021-11-25T20:50:33.063Z" icon="0" href="Second-topic">
+      <caption translate="true">Warning and Caution</caption>
     </topicref>
   </topicref>
-  <topicref type="topic" id="445256431219389" build="ALL" modified="2021-11-25T13:31:06.587Z" icon="0" href="Chapter-2">
-    <caption translate="true">Chapter 2</caption>
+  <topicref type="topic" id="445256431219389" build="ALL" modified="2021-11-25T19:37:41.280Z" icon="0" href="Chapter-2">
+    <caption translate="true">How tSmmartPet Works</caption>
     <topicref type="topic" id="445256890650357" build="ALL" modified="2021-11-25T13:31:06.682Z" icon="0" href="Overview">
       <caption translate="true">Overview</caption>
     </topicref>
-    <topicref type="topic" id="445256460381688" build="ALL" modified="2021-11-25T13:31:06.787Z" icon="0" href="Sub-chapter-2_1">
-      <caption translate="true">Sub chapter 2.1</caption>
+    <topicref type="topic" id="445256460381688" build="ALL" modified="2021-11-25T20:53:20.146Z" icon="0" href="Sub-chapter-2_1">
+      <caption translate="true">How to Use</caption>
       <topicref type="topic" id="445254316024240" build="ALL" modified="2021-11-25T13:31:06.887Z" icon="0" href="New-topic">
         <caption translate="true">New topic</caption>
       </topicref>
+    </topicref>
+    <topicref type="topic" id="445257319181769" build="ALL" modified="2021-11-25T20:53:43.235Z" icon="0" href="Neues-Topic">
+      <caption translate="true">How to Clean</caption>
+    </topicref>
+    <topicref type="topic" id="445257458689700" build="ALL" modified="2021-11-25T20:54:17.483Z" icon="0" href="Troubleshooting-">
+      <caption translate="true">Troubleshooting </caption>
+    </topicref>
+    <topicref type="topic" id="445258342583003" build="ALL" modified="2021-11-25T20:54:41.092Z" icon="0" href="Warranty">
+      <caption translate="true">Warranty</caption>
     </topicref>
   </topicref>
 </map>

@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="" lasteditedby="tomok" modified="2021-11-25T13:31:06.116+01:00" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title>Introduction</title>
+<topic template="Default" modified="2021-11-25T20:51:53.364+01:00" lasteditedby="tomok" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>What is SmmartPet</title>
   <body>
-    <header><para styleclass="Heading1">Introduction</para></header>
+    <header>
+      <para styleclass="Heading1">What is SmmartPet</para>
+    </header>
     <para styleclass="Normal">Geben Sie hier den Text ein.</para>
   </body>
 </topic>

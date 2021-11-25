@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="" lasteditedby="tomok" modified="2021-11-25T13:31:06.495+01:00" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title>Second topic</title>
+<topic template="Default" modified="2021-11-25T20:50:34.917+01:00" lasteditedby="tomok" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Warning and Caution</title>
   <body>
-    <header><para styleclass="Heading1">Second topic</para></header>
+    <header>
+      <para styleclass="Heading1">Warning and Caution</para>
+    </header>
     <para styleclass="Normal">Geben Sie hier den Text ein.</para>
   </body>
 </topic>
