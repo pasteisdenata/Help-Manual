@@ -5,7 +5,7 @@
 >
 <xsl:output method="html" encoding="utf-8" indent="yes" />
 
-<xsl:param name="projectfile" select="document('NewProject.hmxp')" />
+<xsl:param name="projectfile" select="document('SmmartPet.hmxp')" />
 
 <xsl:variable name="projectpath"> 
   <xsl:for-each select="topic">
