@@ -1,0 +1,4 @@
+This is the default folder for your Help+Manual projects.
+
+If you have installed the examples that come with Help+Manual,
+you should find them in this folder as well.

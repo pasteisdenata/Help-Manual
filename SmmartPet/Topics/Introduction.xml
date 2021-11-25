@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" status="" lasteditedby="tomok" modified="2021-11-25T13:31:06.116+01:00" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Introduction</title>
+  <body>
+    <header><para styleclass="Heading1">Introduction</para></header>
+    <para styleclass="Normal">Geben Sie hier den Text ein.</para>
+  </body>
+</topic>
