@@ -2,6 +2,9 @@
 <map xmlns:xsi="http://www.w3.org/2001/XInclude">
   <topicref type="topic" id="445257226912445" build="ALL" modified="2021-11-25T20:51:53.295Z" icon="0" href="Introduction">
     <caption translate="true">What is SmmartPet</caption>
+    <topicref type="topic" id="445287559684777" build="ALL" modified="2021-11-28T14:08:36.305Z" icon="0" href="Warranty2">
+      <caption translate="true">Release Notes</caption>
+    </topicref>
     <topicref type="topic" id="44524444643313" build="ALL" modified="2021-11-25T20:52:22.472Z" icon="0" href="Welcome-topic">
       <caption translate="true">Deiagrams</caption>
     </topicref>
