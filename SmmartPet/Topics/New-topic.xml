@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" status="" lasteditedby="tomok" modified="2021-11-25T13:31:06.885+01:00" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
-  <title>New topic</title>
+<topic template="Default" modified="2021-11-28T15:30:47.105+01:00" lasteditedby="tomok" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Setting</title>
   <body>
-    <header><para styleclass="Heading1">New topic</para></header>
+    <header>
+      <para styleclass="Heading1">Setting</para>
+    </header>
     <para styleclass="Normal">Geben Sie hier den Text ein.</para>
   </body>
 </topic>

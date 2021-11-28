@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2021-11-28T14:20:46.254+01:00" lasteditedby="tomok" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2021-11-28T15:26:34.268+01:00" lasteditedby="tomok" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>Release Notes</title>
   <body>
     <header>
@@ -13,7 +13,7 @@
       <li styleclass="Normal">12 or 24 hour display</li>
       <li styleclass="Normal">Red LED indicates low battery</li>
       <li styleclass="Normal">Yellow LED indicates low feed</li>
-      <li styleclass="Normal">Illuminated display</li>
+      <li styleclass="Normal">Illuminated control panel</li>
     </list>
     <para styleclass="Normal"></para>
     <para styleclass="Normal"><text style="font-weight:bold;">Fix</text></para>
