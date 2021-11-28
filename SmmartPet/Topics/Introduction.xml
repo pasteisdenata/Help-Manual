@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
-<topic template="Default" modified="2021-11-25T20:51:53.364+01:00" lasteditedby="tomok" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+<topic template="Default" modified="2021-11-28T15:55:50.300+01:00" lasteditedby="tomok" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
   <title>What is SmmartPet</title>
   <body>
     <header>
       <para styleclass="Heading1">What is SmmartPet</para>
     </header>
-    <para styleclass="Normal">Geben Sie hier den Text ein.</para>
+    <para styleclass="Normal">SmmartPet is an automatic pet feeder that let you to schedule meals and set portions. If offers great peace of mind by not only making sure your pets are fed on time but also keeping them healthy by feeding them the appropriate amount of feed. </para>
   </body>
 </topic>
